@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NatQ-Dic (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NatQ-Dic (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
